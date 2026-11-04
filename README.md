@@ -362,10 +362,14 @@ Offen DY; Elram Y; Kadosh E; Cohen M.
 
 - **2025 - Session organizer.** International Society for Stem Cell Research (ISSCR) Annual Meeting, Hamburg, Germany.
 
+[Session summary](https://isscr2024.eventscribe.net/fsPopup.asp?Mode=sessioninfo&PresentationID=1388693)
 
 ## Training and Course Participation
 
 - **2017 - Course participant.** 26th Annual Course on Experimental Models of Human Cancer, The Jackson Laboratory, Bar Harbor, USA.
+- **2026 - Epsilon Founder-builder program** in Climate Tech. Building  scalable climate tech and sustainability ventures. A 3-month program.
+- **2026 - MBAI Program**, The Institute’s AI training program, Ben-Gurion University, Israel
+
 
 
 ## Teaching and Mentoring
